@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">Movie Collector</string>
+   <string name="button_add_contact">Add Movie</string>
+   <string name="button_save_contact">Save Movie</string>
+   <string name="menuitem_add_contact">Add Movie</string>
+   <string name="menuitem_edit_contact">Edit Movie</string>
+   <string name="menuitem_delete_contact">Delete Movie</string>
+   <string name="address">Extra Info</string>
+   <string name="hint_name">Title</string>
+   <string name="hint_email">Director</string>
+   <string name="hint_phone">Year</string>
+   <string name="hint_street">IMDB Rate</string>
+   <string name="hint_city">Duration(min)</string>
+   <string name="label_name">Title:</string>
+   <string name="label_email">Director:</string>
+   <string name="label_phone">Year:</string>
+   <string name="label_street">IMDB Rate:</string>
+   <string name="label_city">Duration:</string>
+   <string name="confirmTitle">Are You Sure?</string>
+   <string name="confirmMessage">
+      This will permanently delete the movie</string>
+   <string name="errorButton">OK</string>
+   <string name="errorTitle">Movie Title is Required</string>
+   <string name="errorMessage">You must enter a movie title</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="buttonName">Watch Trailer</string>
+</resources>
