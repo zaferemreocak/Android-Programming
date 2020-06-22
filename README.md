@@ -1,4 +1,4 @@
-# Mobile-Device
+# Android Programming
 
 Mobile programming course which has 3 tiny apps and 1 comprehensive project.
 
