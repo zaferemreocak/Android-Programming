@@ -2,13 +2,13 @@
 
 Mobile programming course which has 3 tiny apps and 1 comprehensive project.
 
-## Android Apps
+## Tiny Android Applications
 
 - Body Mass Index Calculator
 - Flag Quiz Game
 - Movie Collection App
 
-## Radio App
+## Radio Appplication
 
 A Radio Station program where the program is initialized with radio stations that users can listen to.
 - Users can like a radio and find that particular radio in a favorite list.
